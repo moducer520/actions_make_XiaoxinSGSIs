@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
-  "make_miui": true,
-  "make_flyme": false,
+  "rom_url": "https://hugeota.d.miui.com/21.4.12/miui_CANNON_21.4.12_47df688af4_11.0.zip",
+  "rom_name": "miui_CANNON_21.4.12_47df688af4_11.0.zip",
+  "pack_sgsi": "fly_CANNON.7z",
+  "make_miui": false,
+  "make_flyme": true,
   "make_coloros": false,
   "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
-  "make_super": false,
+  "make_super": true,
   "upload_transfer": true,
   "upload_artifact": false
 }
